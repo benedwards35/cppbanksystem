@@ -1,3 +1,0 @@
-USER user 1234 1000
-ADMIN admin abcd
-USER user0 1234 0
